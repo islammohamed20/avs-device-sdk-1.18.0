@@ -68,7 +68,6 @@ build_kwd_engine() {
 
   cd $THIRD_PARTY_PATH
   git clone https://github.com/islammohamed20/alexa-rpi.git
-  bash ./alexa-rpi/bin/license.sh
 }
 
 generate_start_script() {
