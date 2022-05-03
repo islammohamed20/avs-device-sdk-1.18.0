@@ -23,7 +23,7 @@ CLONE_URL=${CLONE_URL:- 'https://github.com/islammohamed20/avs-device-sdk-1.18.0
 PORT_AUDIO_FILE="pa_stable_v190600_20161030.tgz"
 PORT_AUDIO_DOWNLOAD_URL="http://www.portaudio.com/archives/$PORT_AUDIO_FILE"
 
-TEST_MODEL_DOWNLOAD="https://github.com/islammohamed20/alexa-rpi/blob/master/models/spot-alexa-rpi-31000.snsr"
+TEST_MODEL_DOWNLOAD="https://github.com/islammohamed20/alexa-rpi/blob/master/models/spot-alexa-rpi-20500.snsr"
 
 BUILD_TESTS=${BUILD_TESTS:-'true'}
 
